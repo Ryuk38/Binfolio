@@ -4,12 +4,6 @@
 ## Description
 Binfolio is a personal portfolio website designed to showcase projects, experience, education, and certificates. It features a modern and clean design with smooth animations and responsive layout. This project aims to provide a professional online presence for individuals in the tech field.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation 🚀
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
