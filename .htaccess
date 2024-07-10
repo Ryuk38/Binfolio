@@ -1,0 +1,20 @@
+RewriteEngine On
+
+
+# Redirect 'home' to 'index.html'
+RewriteRule ^home$ index.html [L]
+
+# Redirect 'portfolio' to 'portfolio.html'
+RewriteRule ^portfolio$ portfolio.html [L]
+
+# Redirect 'certificate' to 'certificate.html'
+RewriteRule ^certificate$ certificate.html [L]
+
+# Redirect 'contact' to 'contact.php'
+RewriteRule ^contact$ contact.php [L]
+
+
+# Optionally, handle the About and Experience and Education sections with anchors
+# Assuming these sections are part of the index.html
+RewriteRule ^about$ index.html#About [L]
+RewriteRule ^experience-and-education$ index.html#Experience%20and%20Education [L]
