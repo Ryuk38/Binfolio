@@ -40,7 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please reach out:
 
 - **Email**: c380bineesh@gmail.com
-- **Phone**: +91 8791789231
 - **LinkedIn**: [Bineesh Mathew](https://www.linkedin.com/in/bineesh38/)
 - **GitHub**: [ryuk38](https://github.com/ryuk38)
 
