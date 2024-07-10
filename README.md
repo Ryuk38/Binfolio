@@ -45,8 +45,6 @@ For any inquiries or feedback, please reach out:
 - **LinkedIn**: [Bineesh Mathew](https://www.linkedin.com/in/bineesh38/)
 - **GitHub**: [ryuk38](https://github.com/ryuk38)
 
-![Connect with me](images/connect-with-me.png)
-
 Thank you for visiting Binfolio! 🌟
 
 
