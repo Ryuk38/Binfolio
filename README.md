@@ -27,7 +27,7 @@ Open the `index.html` file in your preferred web browser to view the portfolio w
 
 ## Files
 - `index.html`: Home page
-- `contact.html`: Contact page
+- `contact.php`: Contact page
 - `portfolio.html`: Projects portfolio page
 - `certificate.html`: Certificates page
 - `backend.php`: PHP backend script for form handling
