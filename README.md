@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-website-url.com/images/logo.png" alt="Binfolio Logo" width="200" />
-</p>
-
 <h1 align="center">Binfolio - Personal Portfolio Website</h1>
 
 <p align="center">
